@@ -1,0 +1,21 @@
+.details-card{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content:center; */
+    flex-grow:1;
+    padding:10px;
+    transition:all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1); 
+
+}
+.details-card:hover
+
+.card-name{
+    font-size:15px;
+    margin-bottom:10px;
+}
+.card-value{
+    font-size:50px;
+    font-weight: 800;
+    margin:0
+}

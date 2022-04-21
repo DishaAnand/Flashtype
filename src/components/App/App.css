@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    box-sizing:border-box;
+    font-family:"Poppins",sans-serif;}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(23, 55, 63)
+}
